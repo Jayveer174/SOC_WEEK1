@@ -1,2 +1,2 @@
-# SOC_WEEK1
-This is containing the week 1 reswource and assignment of SOC topic "Dive into digital image processing"
+In week one of the project we were given a short introduction to the topic by going through the basics defition related to the image processing like, what is pixel?, what is history stretching and sliding etc. We were also given a video on python basics in which basics of python was taught. Apart from this the Numpy library(short form of numerical python) was also part of the week one which studied through the site tutorialpoint.com or W3school.com.
+In week 2 we studued topic like masking, convolution, blurring and sobel operator and how we use these to get an image brighter or dimmer than the our original image. We were also given an assignment in which 3 files containing the RGB value and gray scale value of corresponding image were given.We were expected to strech the image so that our eyes can visualise what is there in the image.
